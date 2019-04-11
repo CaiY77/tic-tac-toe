@@ -1,5 +1,4 @@
 //Cai Yang
-
 let box = document.getElementsByClassName('box-selector');
 let player = document.getElementsByClassName('player');
 let filled1 = [];

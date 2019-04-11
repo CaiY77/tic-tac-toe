@@ -100,7 +100,8 @@ h1 {
 }
 
 .highlight {
-  background: rgba(100, 130, 185, 0.7);
+  color:white;
+  background:black;
 }
 
 #gameover {
